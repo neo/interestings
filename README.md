@@ -1,5 +1,4 @@
-# NEO's Interestings
+# Pivotal's Interestings March 2nd, 2016
 
-Neo's interestings aims to catalogue each and every Neon's little learnings that we share with each other during daily stand up meetings.
-
-Inspired by Thoughtbot's [TIL](https://github.com/thoughtbot/til).
+- [RASPBERRY PI 3](https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/) ON SALE NOW AT $35 
+- [Alfred Version 3](https://www.alfredapp.com/blog/announcements/alfred-v3-is-coming/) is Coming!
